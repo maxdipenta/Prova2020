@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "09f970fb_e58c87ae",
+        "filename": "prova.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1015174
+      },
+      "writtenOn": "2020-10-03T16:30:58Z",
+      "side": 1,
+      "message": "The method is not commented",
+      "revId": "df64b2bf3a25094fac6a9df368e36c8d8aed8269",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
