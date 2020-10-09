@@ -1,5 +1,9 @@
 aaa
 here
 aaa
+<<<<<<< HEAD
 MASTER
 my change
+=======
+EXP
+>>>>>>> changed a
