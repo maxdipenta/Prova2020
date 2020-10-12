@@ -1,3 +1,4 @@
+//comment
 int main()
 {
  printf("");
