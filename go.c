@@ -1,2 +1,4 @@
-aaa
-aa
+int go()
+{
+  int a;
+}
