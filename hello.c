@@ -1,4 +1,5 @@
 //oops
+//This is the only comment to keep
 //energy
 int main()
 {
